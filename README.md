@@ -117,7 +117,7 @@ TaskFlow allows users to create, view, update and delete tasks, assign prioritie
 
 ---
 
-## 🙏 Acknowledgement
+##  Acknowledgement
 
 I would like to thank **UniConverge Technologies** and **upSkillCampus**, in association with **AICTE** and **The IoT Academy**, for the internship opportunity, and the **School of Computer Science and Engineering, IILM University, Greater Noida**, for the academic framework that supported this internship.
 
